@@ -13,6 +13,10 @@ A simple console-based Tic Tac Toe game built with Python. Two players can take 
 ## Requirements
 
 No external libraries required. Just Python 3.
+Tic-tac-toe-game/
+├── tic_tac_toe.py
+├── README.md
+└── LICENSE
 
 ## How to Run
 
