@@ -17,6 +17,9 @@ Tic-tac-toe-game/
 ├── tic_tac_toe.py
 ├── README.md
 └── LICENSE
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## How to Run
 
