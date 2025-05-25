@@ -1,4 +1,6 @@
 # Tic-tac-toe-game
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # Tic Tac Toe Game - Python
 
 A simple console-based Tic Tac Toe game built with Python. Two players can take turns to play on the same computer. This project is beginner-friendly and demonstrates basic concepts like loops, conditionals, lists, and functions.
